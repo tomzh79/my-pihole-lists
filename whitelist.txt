@@ -122,3 +122,8 @@ mydealz.digidip.net
 ccleaner.tools.avcdn.net
 my.matterport.com
 www.expressvpn.com
+app.adjust.com
+olmprodpowerlift-cdn.azureedge.net
+whatismyip.akamai.com
+vortex.data.microsoft.com
+v10.events.data.microsoft.com
