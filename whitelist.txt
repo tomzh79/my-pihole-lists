@@ -128,3 +128,4 @@ whatismyip.akamai.com
 vortex.data.microsoft.com
 v10.events.data.microsoft.com
 download.iobit.com
+forms.gle
