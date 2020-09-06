@@ -21,6 +21,7 @@ appleid.apple.com
 app.plex.tv
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apps.skype.com
 apt.sonarr.tv
 aspnetcdn.com
@@ -53,11 +54,13 @@ clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
 commission-junction.com
+continuum.dds.microsoft.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 cse.google.com
 c.s-microsoft.com
 ctldl.windowsupdate.com
+cws.conviva.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
@@ -89,6 +92,7 @@ forums.sonarr.tv
 gan.doubleclick.net
 geo3.ggpht.com
 geo-prod.do.dsp.mp.microsoft.com
+gfwsl.geforce.com
 giphy.com
 github.com
 github.io
@@ -120,6 +124,7 @@ lastfm-img2.akamaized.net
 licensing.xboxlive.com
 linksynergy.com
 live.com
+livepassdl.conviva.com
 login.aliexpress.com
 login.live.com
 login.microsoftonline.com
@@ -152,6 +157,7 @@ onenetworkdirect.net
 outlook.live.com
 outlook.office365.com
 partners.webmasterplan.com
+pings.conviva.com
 pinterest.com
 pjatr.com
 pjtra.com
@@ -219,6 +225,7 @@ twitter.com
 ui.skype.com
 video-stats.l.google.com
 videos.vidible.tv
+vidtech.cbsinteractive.com
 v.shopify.com
 widget-cdn.rpxnow.com
 wikipedia.org
@@ -265,3 +272,4 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
+zee.cws.conviva.com
