@@ -54,6 +54,8 @@ clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
 commission-junction.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
@@ -251,6 +253,7 @@ www.gopjn.com
 www.jdoqocy.com
 www.kqzyfj.com
 www.linksynergy.com
+www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
 www.ojrq.net
